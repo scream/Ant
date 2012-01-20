@@ -1,0 +1,1 @@
+var a = function(){	console.log('hello');};var b = function(){	console.log('world');};var c = function(){	console.log('hello world');}
